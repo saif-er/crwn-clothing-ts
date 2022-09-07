@@ -33,7 +33,7 @@ const categories: DirectoryCategory[] = [
   {
     id: 4,
     title: 'womens',
-    imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+    imageUrl: 'https://i.ibb.co/7VzMNcV/2022-09-06-1.png',
     route: 'shop/womens',
   },
   {
